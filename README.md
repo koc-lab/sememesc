@@ -1,1 +1,1 @@
-# sememesc
+# Sememe Based Semantic Communications
