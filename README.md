@@ -1,5 +1,6 @@
 # Sememe-Based Semantic Communications
 T. Ozates, U. Kargı and A. Koç, "Sememe-Based Semantic Communications," in IEEE Communications Letters, vol. 28, no. 10, pp. 2308-2312, Oct. 2024
+
 Paper link: https://ieeexplore.ieee.org/document/10648841
 
 To reproduce the results, follow these steps:
